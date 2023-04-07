@@ -23,4 +23,7 @@ public class ClassB {
 		public void tc_4() {
 			System.out.println("classB tc_4");
 		}
+		public void employeeloc() {
+			System.out.println("OMR");
+		}
 }
